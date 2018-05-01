@@ -1,3 +1,4 @@
+//Emily Higgs
 public class UnionFind {
 
 	private int numberOfSubsets;
